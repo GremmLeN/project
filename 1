@@ -1,0 +1,55 @@
+[33mcommit b280d56619f6bde2d2e64df87942019baa8de06c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 21:27:35 2020 +0500
+
+    update feature version
+
+[33mcommit e39d702ce7797da0c0a584e18c636ccf2bd99bcd[m[33m ([m[1;33mtag: 1.0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 21:24:40 2020 +0500
+
+    new feature version
+
+[33mcommit 415bb2ff61453e2f05d799fd2fd21a4a9774310e[m[33m ([m[1;33mtag: 1.0.0[m[33m, [m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Merge: f7f0035 d821ba9
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 20:45:48 2020 +0500
+
+    Merge branch 'master' of github.com:GremmLeN/project
+
+[33mcommit f7f00359b8c4838bd01c603edd16d0ecabc4340c[m
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 20:29:42 2020 +0500
+
+    new code fuature
+
+[33mcommit d821ba9fdac0ae67ec7061ab8ba0248deaa7413e[m
+Merge: 0bdbfc0 e7d0c3d
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 20:17:36 2020 +0500
+
+    Merge branch 'gui-brach'
+
+[33mcommit e7d0c3d7084ceceb92ac56caf8dad4d829b10ca7[m
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 20:14:06 2020 +0500
+
+    update git kraken
+
+[33mcommit 0bdbfc0423c8a8ff6682acb85933a38757d6548d[m
+Author: GremmLeN <68778377+GremmLeN@users.noreply.github.com>
+Date:   Sat Jul 25 19:47:31 2020 +0500
+
+    Update dev.md
+
+[33mcommit 36d18dfdb33fb3193ed4804f840e4067405dca60[m
+Author: GremmLeN <GremmLeN@gmail.com>
+Date:   Sat Jul 25 19:44:04 2020 +0500
+
+    first dev commit
+
+[33mcommit c0a46f476a794a3af67d15d12d52623988324457[m
+Author: GremmLeN <68778377+GremmLeN@users.noreply.github.com>
+Date:   Sat Jul 25 19:33:07 2020 +0500
+
+    Initial commit
